@@ -67,4 +67,4 @@ This project uses the free [ip-api.com](http://ip-api.com) API (rate limit: 45 r
 
 ---
 
-Author: **George Boutrs** | [@thecyberbite](https://github.com/georgebotrs37-svg)
+Author: **George Boutrs** |(https://github.com/georgebotrs37-svg)
