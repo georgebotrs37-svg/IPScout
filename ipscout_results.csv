@@ -1,0 +1,7 @@
+query,country,regionName,city,zip,lat,lon,timezone,isp,org,as,status
+8.8.8.8,United States,Virginia,Ashburn,20149,39.03,-77.5,America/New_York,Google LLC,Google Public DNS,AS15169 Google LLC,success
+1.1.1.1,Australia,Queensland,South Brisbane,4101,-27.4766,153.0166,Australia/Brisbane,"Cloudflare, Inc",APNIC and Cloudflare DNS Resolver project,"AS13335 Cloudflare, Inc.",success
+8.8.8.8,United States,Virginia,Ashburn,20149,39.03,-77.5,America/New_York,Google LLC,Google Public DNS,AS15169 Google LLC,success
+41.32.0.1,Egypt,Cairo Governorate,Cairo,,30.0507,31.2489,Africa/Cairo,TE Data,,AS8452 TE-AS,success
+41.32.0.1,Egypt,Cairo Governorate,Cairo,,30.0507,31.2489,Africa/Cairo,TE Data,,AS8452 TE-AS,success
+196.219.11.1,Egypt,Cairo Governorate,Cairo,,30.0507,31.2489,Africa/Cairo,TE Data,TE Data,AS8452 TE-AS,success
