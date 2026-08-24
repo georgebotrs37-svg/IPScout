@@ -66,4 +66,5 @@ IP geolocation gives an **approximate** location based on the ISP's registration
 This project uses the free [ip-api.com](http://ip-api.com) API (rate limit: 45 requests/minute) and [ipify.org](https://www.ipify.org) for public IP detection.
 
 ---
-Made by **The Cyber Bite** | [@thecyberbite](https://github.com/thecyberbite)
+Made by **The Cyber Bite**
+Author: **George Boutrs** | [@thecyberbite](https://github.com/georgebotrs37-svg)
